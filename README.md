@@ -1,4 +1,4 @@
-# data_visualization
+# Incremental Matrix Reordering for Similarity-Based Dynamic Data Sets
 
 ## Описание
 
@@ -12,8 +12,16 @@
 
 1. Матрица, заполненная в порядке расположения объектов в датасете.
 
+![alt text](https://raw.githubusercontent.com/damirsib/Incremental-Matrix-Reordering-for-Similarity-Based-Dynamic-Data-Sets/master/images/Figure_1.png)
+
 2. Матрица, упорядоченная статическим методом.
+
+![alt text](https://raw.githubusercontent.com/damirsib/Incremental-Matrix-Reordering-for-Similarity-Based-Dynamic-Data-Sets/master/images/Figure_2.png)
 
 3. Матрица первых пятидесяти объектов датасета, упорядоченная динамическим методом.
 
+![alt text](https://raw.githubusercontent.com/damirsib/Incremental-Matrix-Reordering-for-Similarity-Based-Dynamic-Data-Sets/master/images/Figure_3.png)
+
 4. Матрица последних пятидесяти объектов датасета, упорядоченная динамическим методом.
+
+![alt text](https://raw.githubusercontent.com/damirsib/Incremental-Matrix-Reordering-for-Similarity-Based-Dynamic-Data-Sets/master/images/Figure_4.png)
